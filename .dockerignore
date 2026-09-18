@@ -1,0 +1,7 @@
+.git
+.github
+scratch
+*.md
+vercel.json
+firebase.json
+.firebaserc
